@@ -51,11 +51,6 @@ This is a simple quiz application built using React. Users can test their knowle
 - **HTML/CSS:** Basic markup and styling.
 - **JavaScript:** Programming language used for interactivity and logic.
 
-## Screenshots
-
-![Screenshot](/screenshots/screenshot1.png)
-![Screenshot](/screenshots/screenshot2.png)
-
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
